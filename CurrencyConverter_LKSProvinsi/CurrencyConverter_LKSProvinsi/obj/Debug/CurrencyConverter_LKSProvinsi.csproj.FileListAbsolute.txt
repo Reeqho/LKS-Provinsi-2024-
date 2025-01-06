@@ -1,0 +1,15 @@
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\CurrencyConverter_LKSProvinsi.exe.config
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\CurrencyConverter_LKSProvinsi.exe
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\CurrencyConverter_LKSProvinsi.pdb
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\EntityFramework.dll
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\EntityFramework.SqlServer.dll
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\EntityFramework.xml
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\bin\Debug\EntityFramework.SqlServer.xml
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.csproj.AssemblyReference.cache
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.Form1.resources
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.Properties.Resources.resources
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.csproj.GenerateResource.cache
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.csproj.CoreCompileInputs.cache
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\Currency.7A95EEC6.Up2Date
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.exe
+D:\RoadToLks\Desktop C#\CurrencyConverter_LKSProvinsi\CurrencyConverter_LKSProvinsi\obj\Debug\CurrencyConverter_LKSProvinsi.pdb
